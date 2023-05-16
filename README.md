@@ -1,4 +1,4 @@
-# Urdu-Abstractive-Summarization
+# Urdu Abstractive Summarization
 This repository demonstrates the process of training our summarization model using PyTorch and the Transformers library. We further provide a step-by-step guide to preprocess a dataset, train our summarization model, and evaluate the model using ROUGE scores. More detail about our methodology and results can be seen in the [Abstractive Urdu Summarization Report](https://github.com/Ammar-Amjad/Urdu-Abstractive-Summarization/blob/main/Abstractive%20Urdu%20Summarization.pdf).
 
 ## Installation
