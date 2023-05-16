@@ -6,6 +6,7 @@ To run the notebook, you need to install the required libraries. You can do this
 
 In shell:
 - pip install datasets evaluate transformers accelerate huggingface_hub rouge nltk
+
 Install the required libraries using the command mentioned above.
 
 Clone the repository and navigate to the notebook file.
