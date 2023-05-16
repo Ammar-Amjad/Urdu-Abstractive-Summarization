@@ -33,17 +33,29 @@ The notebook requires the following libraries:
 The code is a Python notebook that trains a summarization model using PyTorch and Transformers. It performs the following steps:
 
 1- Installs required libraries.
+
 2- Sets up the environment.
+
 3- Defines directories for dataset storage.
+
 4- Loads the Urdu dataset.
+
 5- Displays dataset samples.
+
 6- Preprocesses the dataset by filtering and removing certain examples.
+
 7- Loads a pre-trained model and tokenizer.
+
 8- Defines a preprocessing function for tokenizing dataset examples.
+
 9- Calculates ROUGE scores for evaluation.
+
 11- Evaluates a baseline summarization approach.
+
 12- Sets up training parameters.
+
 13- Trains the model using the Seq2SeqTrainer.
+
 14- Evaluates the trained model on the validation dataset.
 
 Overall, the code showcases dataset preprocessing, model training, and evaluation for summarization using Transformers in PyTorch.
