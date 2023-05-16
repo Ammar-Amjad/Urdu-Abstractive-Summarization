@@ -68,11 +68,17 @@ The notebook code and explanations were written by Ammar Amjad, Mohammad Anas, M
 
 ## References
 Transformers Documentation
+
 Datasets Documentation
+
 Accelerate Documentation
+
 Hugging Face Hub Documentation
+
 Rouge Library
+
 NLTK Documentation
+
 Please refer to the documentation of these libraries for more information on their usage and functionalities.
 
 ## Acknowledgements
